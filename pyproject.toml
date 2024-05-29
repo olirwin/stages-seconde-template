@@ -3,15 +3,15 @@ name = "snake-template"
 version = "1.0.0"
 description = "Template pour le jeu Snake -- Fil Rouge stages seconde"
 authors = [
-  {name = "Sara Riva", email = "sara.riva@univ-lille.fr"},
-  {name = "Pauline Puteaux", email = "pauline.puteaux@cnrs.fr"},
-  {name = "Oliver Irwin", email = "oliver.irwin@univ-lille.fr"},
-  {name = "Madeleine Eyraud", email = "madeleine.eyraud@univ-lille.fr"},
-  {name = "Alexandre D'Hooge", email = "alexandre.dhooge@univ-lille.fr"},
-  {name = "Ziyad Houssaini", email = "houssaini.ziyad@protonmail.com"},
-  {name = "Gael Vanderlee", email = "gael.vanderlee@gmail.com"},
-  {name = "Younoussa Sow", email = "younoussa.sow@inria.fr"},
-  {name = "Théo Gueuret", email = "theo.gueuret@univ-lille.fr"}
+  "Sara Riva <sara.riva@univ-lille.fr>",
+  "Pauline Puteaux <pauline.puteaux@cnrs.fr>",
+  "Oliver Irwin <oliver.irwin@univ-lille.fr>",
+  "Madeleine Eyraud <madeleine.eyraud@univ-lille.fr>",
+  "Alexandre D'Hooge <alexandre.dhooge@univ-lille.fr>",
+  "Ziyad Houssaini <houssaini.ziyad@protonmail.com>",
+  "Gael Vanderlee <gael.vanderlee@gmail.com>",
+  "Younoussa Sow <younoussa.sow@inria.fr>",
+  "Théo Gueuret <theo.gueuret@univ-lille.fr>"
 ]
 
 [tool.poetry.dependencies]
