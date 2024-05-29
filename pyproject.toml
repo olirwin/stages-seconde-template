@@ -2,7 +2,17 @@
 name = "snake-template"
 version = "1.0.0"
 description = "Template pour le jeu Snake -- Fil Rouge stages seconde"
-authors = ["Oliver Irwin <oliver.irwin@univ-lille.fr"]
+authors = [
+  {name = "Sara Riva", email = "sara.riva@univ-lille.fr"},
+  {name = "Pauline Puteaux", email = "pauline.puteaux@cnrs.fr"},
+  {name = "Oliver Irwin", email = "oliver.irwin@univ-lille.fr"},
+  {name = "Madeleine Eyraud", email = "madeleine.eyraud@univ-lille.fr"},
+  {name = "Alexandre D'Hooge", email = "alexandre.dhooge@univ-lille.fr"},
+  {name = "Ziyad Houssaini", email = "houssaini.ziyad@protonmail.com"},
+  {name = "Gael Vanderlee", email = "gael.vanderlee@gmail.com"},
+  {name = "Younoussa Sow", email = "younoussa.sow@inria.fr"},
+  {name = "Théo Gueuret", email = "theo.gueuret@univ-lille.fr"}
+]
 
 [tool.poetry.dependencies]
 python = ">=3.10.0,<=3.12"
