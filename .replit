@@ -1,0 +1,10 @@
+entrypoint = "snake_template.py"
+
+[unitTest]
+language = "python3"
+
+[gitHubImport]
+requiredFiles = [".replit"]
+
+[deployment]
+run = ["python3", "snake_template.py"]
